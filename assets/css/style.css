@@ -138,6 +138,22 @@ main > article > p:nth-of-type(4)::after {
     font-style: italic;
     color: red;
 }
+
+
+main > article > p:nth-of-type(5)::after {
+    content: " - available";
+    text-transform: uppercase;
+    font-style: italic;
+    color: 999;
+}
+
+main > article > p:nth-of-type(6)::after {
+    content: " - available";
+    text-transform: uppercase;
+    font-style: italic;
+    color: 999;
+}
+
  
 
 /* ==================== FOOTER ==================== */
