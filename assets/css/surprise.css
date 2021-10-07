@@ -11,8 +11,9 @@ p {
     color: red;
     text-transform: uppercase;
     font-family: 'Avenir', serif;
-    font-size: 44px;
-    padding-top:250px;
+    font-size: 66px;
+    font-weight: bolder;
+    padding-top:66px;
 }
 
 
